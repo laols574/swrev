@@ -10,7 +10,8 @@ title: Connect
 ### Emitzá Guzmán
 
 ### Lauren Olson
-![Lauren Olson](assets/img/profile_pic.png){: width="150px" height="150px" }
+
+<img src="assets/img/profile_pic.png" alt="Lauren Olson" width="150" height="150" />
 
 - **Email:** [l.a.olson@vu.nl](mailto:l.a.olson@vu.nl)
 - **LinkedIn:** [Lauren Olson](https://www.linkedin.com/in/lauren-olson-64653715a/)
