@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Connect
+title: People
 ---
 
-# Connect
+# People
 
 ## Contact Information
 
