@@ -5,9 +5,6 @@ baseurl: "https://laols574@github.io/swrev"
 url: "https://laols574@github.io/swrev"
 
 remote_theme: minima
-plugins:
-  - jekyll-remote-theme
-
 
 markdown: kramdown
 
