@@ -1,10 +1,10 @@
 title: "Software Revolution"
 description: "group website"
 
-baseurl: ""
+baseurl: "https://laols574@github.io/swrev"
 url: "https://laols574@github.io/swrev"
 
-remote_theme: codebygina/mediumish-theme-jekyll
+remote_theme: minima
 plugins:
   - jekyll-remote-theme
 
