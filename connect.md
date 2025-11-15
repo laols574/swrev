@@ -1,16 +1,16 @@
 ---
 layout: default
-title: People
+title: Connect
 ---
 
-# People
+# Connect
 
 ## Contact Information
 
 ### Emitzá Guzmán
 
 ### Lauren Olson
-
+![Lauren Olson](assets/img/profile_pic.png)
 - **Email:** [l.a.olson@vu.nl](mailto:l.a.olson@vu.nl)
 - **LinkedIn:** [Lauren Olson](https://www.linkedin.com/in/lauren-olson-64653715a/)
 - **GitHub:** [laols574](https://github.com/laols574)
