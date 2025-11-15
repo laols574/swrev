@@ -4,7 +4,10 @@ description: "group website"
 baseurl: ""
 url: "https://laols574@github.io/swrev"
 
-theme: minima
+remote_theme: codebygina/mediumish-theme-jekyll
+plugins:
+  - jekyll-remote-theme
+
 
 markdown: kramdown
 
