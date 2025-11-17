@@ -22,3 +22,9 @@ title: Connect
 
 ### Tom P. Humbert
 
+<img src="{{ '/assets/img/tom_pic.png' | relative_url }}" alt="Tom Humbert" width="150" height="150" />
+
+- **Email:** [t.humbert@vu.nl](mailto:t.humbert@vu.nl)
+- **LinkedIn:** [Tom P. Humbert](https://www.linkedin.com/in/tom-humbert-b6b1b718b/)
+- **Web:** [My Website](https://humberttom.eu)
+- **Google Scholar:** [My Profile](https://scholar.google.com/citations?hl=en&user=rZs8qAkAAAAJ)
