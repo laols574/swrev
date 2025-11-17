@@ -1,8 +1,9 @@
-title: "Software Revolution"
-description: "group website"
+title: "Lauren Olson"
+email: l.a.olson@vu.nl
+description: "my website"
 
-baseurl: "https://laols574@github.io/swrev"
-url: "https://laols574@github.io/swrev"
+baseurl: ""
+url: "https://laols574@github.io"
 
 theme: minima
 
