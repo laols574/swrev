@@ -11,7 +11,7 @@ title: Connect
 
 ### Lauren Olson
 
-<img src="assets/img/profile_pic.png" alt="Lauren Olson" width="150" height="150" />
+<img src="{{ '/assets/img/profile_pic.png' | relative_url }}" alt="Lauren Olson" width="150" height="150" />
 
 - **Email:** [l.a.olson@vu.nl](mailto:l.a.olson@vu.nl)
 - **LinkedIn:** [Lauren Olson](https://www.linkedin.com/in/lauren-olson-64653715a/)
