@@ -3,7 +3,7 @@ layout: default
 title: Publications
 ---
 
-# Publications
+# Selected Publications
 
 ## Journal Articles
 
